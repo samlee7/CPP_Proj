@@ -9,6 +9,7 @@ Project1: priority_queue.H
 #include <map>
 #include <vector>
 #include <iostream>
+#include <limits>
 
 using namespace std;
 const int hType=0;

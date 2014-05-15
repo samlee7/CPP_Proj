@@ -7,6 +7,8 @@ Project1: eight_puzzle.H
 #ifndef __EIGHT_PUZZLE_H__
 #define __EIGHT_PUZZLE_H__
 
+#include <cstdlib>
+#include <cstdio>
 #include <vector>
 #include <iostream>
 #include <map>
